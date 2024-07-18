@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+.bg-color{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    margin: 20% 0 2rem 0;
+    padding: 0.8rem 1.5rem;
+}
+.hexacolor{
+    color: skyblue;
+}
+.btn{
+    padding: 0.5rem;
+    background-color: transparent;
+    border: 2px solid black;
+    cursor: pointer;
+    font-weight: 800;
+}
+.btn:hover{
+    background-color: rgba(255, 255, 255, 0.092);
+}
